@@ -8,6 +8,12 @@
     "percentToQualify": "100",
     "records": [
         {
+            "user": "Roister",
+            "link": "https://www.youtube.com/watch?v=GQWmG43emD8",
+            "percent": 100,
+            "hz": 240
+        },
+        {
             "user": "typher",
             "link": "https://www.youtube.com/watch?v=u_tc8caASMM&t",
             "percent": 100,
