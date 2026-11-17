@@ -1,11 +1,17 @@
 {
-    "id": 14145098
+    "id": 14145098,
     "name": "Invisible Deadlocked",
     "author": "KrmaL",
     "creators": [],
     "verifier": "typher",
-    "verification": "https://www.youtube.com/watch?v=24Hclkmzd7A&t",
+    "verification": "https://www.youtube.com/watch?v=iEai2z9oy3w",
     "percentToQualify": "100",
     "records": [
+        {
+            "user": "Poley",
+            "link": "https://www.youtube.com/watch?v=R4MFaIWeo-4",
+            "percent": 100,
+            "hz": 144
+        },
     ]
 }
