@@ -1,0 +1,17 @@
+{
+    "id": 5155022,
+    "name": "Acropolis",
+    "author": "Zobros",
+    "creators": [],
+    "verifier": "Alexios",
+    "verification": "N/A",
+    "percentToQualify": "100",
+    "records": [
+        {
+            "user": "typher",
+            "link": "https://www.youtube.com/watch?v=u_tc8caASMM&t",
+            "percent": 100,
+            "hz": 165
+        },
+    ]
+}
