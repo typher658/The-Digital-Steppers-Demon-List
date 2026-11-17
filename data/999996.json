@@ -1,0 +1,23 @@
+{
+    "id": 44062068,
+    "name": "Future Funk",
+    "author": "JonathanGD",
+    "creators": [],
+    "verifier": "Poley",
+    "verification": "https://www.youtube.com/watch?v=uWofoon6Hs8",
+    "percentToQualify": "100",
+    "records": [
+      {
+            "user": "Alexios",
+            "link": "N/A",
+            "percent": 100,
+            "hz": 60
+        },
+      {
+            "user": "typher",
+            "link": "N/A",
+            "percent": 100,
+            "hz": 165
+        },
+    ]
+}
