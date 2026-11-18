@@ -1,0 +1,29 @@
+{
+    "id": 6939821,
+    "name": "Jawbreaker",
+    "author": "ZenthicAlpha",
+    "creators": [],
+    "verifier": "Alexios",
+    "verification": "N/A",
+    "percentToQualify": "100",
+    "records": [
+      {
+            "user": "Logikal",
+            "link": "N/A",
+            "percent": 100,
+            "hz": 60
+        },
+      {
+            "user": "Poley",
+            "link": "https://www.youtube.com/watch?v=_vH-5JV-8L8",
+            "percent": 100,
+            "hz": 100
+        },
+      {
+            "user": "typher",
+            "link": "https://www.youtube.com/watch?v=iRBKew32kK4&t",
+            "percent": 100,
+            "hz": 165
+        },
+    ]
+}
