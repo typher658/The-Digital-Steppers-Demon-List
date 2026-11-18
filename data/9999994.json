@@ -1,0 +1,17 @@
+{
+    "id": 227407,
+    "name": "SIMG Factorial 5",
+    "author": "LunarSimg",
+    "creators": [],
+    "verifier": "typher",
+    "verification": "https://www.youtube.com/watch?v=XTm4uW8su6g",
+    "percentToQualify": "100",
+    "records": [
+      {
+            "user": "Poley",
+            "link": "https://www.youtube.com/watch?v=9X6dldbV4Es",
+            "percent": 100,
+            "hz": 100
+        },
+    ]
+}
